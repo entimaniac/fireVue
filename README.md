@@ -1,5 +1,7 @@
 # fire
 
+A hosted version of this project can be found here: https://entimaniac.github.io/fireVue
+
 ## Project setup
 ```
 npm install
