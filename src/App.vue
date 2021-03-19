@@ -2,18 +2,21 @@
   <div id="app">
     <Intro/>
     <TotalAmount/>
+    <Budget/>
   </div>
 </template>
 
 <script>
 import Intro from "@/components/Intro.vue";
 import TotalAmount from "@/components/NeededForm.vue";
+import Budget from "@/components/Budget.vue";
 
 export default {
   name: 'App',
   components: {
     Intro,
-    TotalAmount
+    TotalAmount,
+    Budget
   }
 }
 </script>
